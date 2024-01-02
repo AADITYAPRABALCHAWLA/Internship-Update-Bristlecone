@@ -108,3 +108,28 @@ Day to day update of work at Bristlecone Noida from 16th August to 15th Septembe
 2. Completed coursera course for data visualization using tableau
 
 # 11th September
+1. Had weekly monday meeting
+2. Had a team discussion about futher course of action for completing sentiment analysis
+3. Used R coding to implement sentiment analysis
+
+# 12th September
+1. Created data visualization using tableau
+2. Finalised documentation of sentiment analysis
+3. Rechecked and did some minor changes in final document.
+
+# 13th Septmenbr
+1. Presented final sentiment analysis of aws feedback data in a ppt form.
+2. Documented step by step process in implementing sentiment analysis.
+
+# 14th September
+1. Requested a personal session by HR team.
+2. Asked HR team tips for interviews and noted them,
+3. Got my resume checked by HR team and implemented their feedback.
+4. Gave a mock interview to boost my confidence
+   
+# 15th September
+1. Returned company laptop to IT Team- MR Hitesh
+2. Got few tips for improving professional communication from Product Manager- Mr. Awindra Tiwari
+3. Submitted a request through mail for internship certificate to HR Hub.
+4. Talked about future of cloud computing, data science and necessity of coding with team mates and seniors.
+5. Internship ended
