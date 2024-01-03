@@ -16,8 +16,8 @@ Day to day update of work at Bristlecone Noida from 16th August to 15th Septembe
 # 18th August
 1. Attended weekly Friday meeting with HR team
 2. Completed code of conduct course
-3. Started learning Big Data & Analytics in Mahindra learning portal
-4. Setup employee account in Bristlecone internal portal
+3. Started learning Big Data & Analytics in Mahindra learning portal(Edcast)
+4. Setup employee account in Bristlecone internal portal-Solace
 
 # 19th August and 20th August
 1. Weekend off
@@ -27,7 +27,7 @@ Day to day update of work at Bristlecone Noida from 16th August to 15th Septembe
 1. Started Fundamentals of Artificial Intelligence by IIT Guwahati in Mahindra Learning portal
 2. Attended weekly Monday meeting
 3. Got assigned weekly tasks by product manager: Mr. Awindra Tiwari
-4. Got assigned in a team
+4. Got introduction session with the team
 
 # 22nd August
 1. Completed Fundamentals of Artificial Intelligence by IIT Guwahati in Mahindra Learning portal.
@@ -36,7 +36,7 @@ Day to day update of work at Bristlecone Noida from 16th August to 15th Septembe
 
 # 23rd August
 1. Worked with senior manager and got a preview of work done by brislecone such as
-   a. ABAP ( ADvanced business application programming) in cloud computing.
+   a. ABAP ( Advanced business application programming) in cloud computing.
    b. Core java implementation
    c. AI powered digital supply chain implementation
 2. Got to know about the parter companies bristlecone is working with such as
@@ -47,7 +47,7 @@ Day to day update of work at Bristlecone Noida from 16th August to 15th Septembe
 
 
 # 24th August
-1. Attended a meeting about planting more trees in Pune and Noida offices area
+1. Attended a meeting about planting more trees in Pune and Noida offices area under Green Initiative Plan.
 2. Collaborated with my team to understand complex product metrics.
 
 # 25th August
@@ -63,13 +63,15 @@ Day to day update of work at Bristlecone Noida from 16th August to 15th Septembe
 
 # 29th August
 1. Celebrated onam with cake cutting
-2. Read several documentations and white papers to understand market research and sentiment analysis.
+2. Read several documentations and white papers assigned by team leac to understand market research and sentiment analysis available on confluence..
 
 # 30th August
 1. Took Raksha Bandhan off
 
 # 31st August
-1. Reffered some youtube videos to learn about sentiment analysis 
+1. Reffered some youtube videos to learn about sentiment analysis as suggested by team lead.
+2. Prepared a documentation about my understanding on the topic and shared with the team.
+3. My documentation was appreciated by all.
 
 # 1st September
 1. Had weekly meeting with HR
@@ -95,17 +97,17 @@ Day to day update of work at Bristlecone Noida from 16th August to 15th Septembe
 1. Worked further on sentiment analysis 
 
 # 7th September
-1. Read documentation about data visualization using tableau
-2. Reffered to some youtube videos
+1. Read documentation about data visualization using Tableau
+2. Reffered to some youtube videos as suggested.
 3. Enrolled in coursera course for data visualization using tableau
 
 # 8th September
 1. Had weekly friday meeting with HR
-2. Along with my team implemented tableau to create graphs, plots and data stories
+2. Worked on Tableau to create graphs, plots and data stories with my team. It was an interesting experience.
 
 # 9th Septmber and 10th September
 1. Had weekend off
-2. Completed coursera course for data visualization using tableau
+2. Completed coursera course for data visualization using Tableau
 
 # 11th September
 1. Had weekly monday meeting
@@ -113,13 +115,12 @@ Day to day update of work at Bristlecone Noida from 16th August to 15th Septembe
 3. Used R coding to implement sentiment analysis
 
 # 12th September
-1. Created data visualization using tableau
+1. Created Histograms, Barcharts, Piecharts with the data provided in excel sheets using tableau
 2. Finalised documentation of sentiment analysis
-3. Rechecked and did some minor changes in final document.
+3. Reviewed and edited to create final document with the help of team lead.
 
 # 13th Septmenbr
-1. Presented final sentiment analysis of aws feedback data in a ppt form.
-2. Documented step by step process in implementing sentiment analysis.
+1. Presented final sentiment analysis of aws feedback data in a ppt presentation..
 
 # 14th September
 1. Requested a personal session by HR team.
